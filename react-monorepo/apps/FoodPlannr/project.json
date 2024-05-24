@@ -1,0 +1,9 @@
+{
+  "name": "FoodPlannr",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/FoodPlannr/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project FoodPlannr --web",
+  "targets": {}
+}

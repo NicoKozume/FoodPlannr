@@ -1,0 +1,9 @@
+{
+  "name": "FoodPlannr-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/FoodPlannr-e2e/src",
+  "implicitDependencies": ["FoodPlannr"],
+  "// targets": "to see all targets run: nx show project FoodPlannr-e2e --web",
+  "targets": {}
+}
